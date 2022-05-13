@@ -1,6 +1,6 @@
 # Docker-Soap UI-groovy
 
-Docker image with SoapUI-5.7.0 and Groovy-4.02. based on OpenJDK:11-jdk-slim. 
+Docker image with SoapUI-5.7.0 and Groovy-4.0.2 based on OpenJDK:11-jdk-slim. 
 
 ## General
 
@@ -15,6 +15,7 @@ decision:
 ### Details
 
 Nothing changed in soapui settings, so for more details check official documentation: https://www.soapui.org/docs/test-automation/running-from-command-line/soap-mock/
+
 Groovy can be found here `/home/groovy`, SoapUI there `/home/soapui`.
 
 ## Usage
